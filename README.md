@@ -201,7 +201,7 @@ print(73*"=")
 
 ### **Output**
 Dan Hasil Dari *Syntax* Yang Saya Buat Adalah
-![Gambar8](screenshot/Ss7.png)
+![img](screenshot/ss7.png)
 
 #### **Penjelasan**
 ```sh
