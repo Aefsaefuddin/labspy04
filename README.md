@@ -12,7 +12,7 @@ Matkul  : Pemrograman
 ### *Akses List*
 Soal
 
-![img](screenshot/ss4.Png)
+![img](screenshot/ss4.png)
 
 Saya Mengerjakan Dengan *Syntax* Dibawah Ini 
 ```sh
