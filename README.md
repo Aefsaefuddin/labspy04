@@ -36,7 +36,8 @@ print()
 
 #### **Output**
 Dan Hasil Dari *Syntax* Yang Saya Buat Adalah
-![img](screenshot/ss1.Png)
+
+![img](screenshot/ss1.png)
 
 #### **Penjelasan**
 
@@ -60,7 +61,7 @@ print ('Elemen terakhir', buah[-1]
 ### *Mengubah Elemen List*
 Soal
 
-![img](screenshot/ss5.Png)
+![img](screenshot/ss5.png)
 
 Saya Mengerjakan Dengan *Syntax* Dibawah Ini 
 ```sh
@@ -83,7 +84,7 @@ print()
 #### **Ouput**
 
 Dan Hasil Dari *Syntax* Yang Saya Buat Adalah
-![img](screenshot/ss2.Png)
+![img](screenshot/ss2.png)
 
 #### **Penjelasan**
 ```sh
@@ -102,7 +103,7 @@ print("ubah elemen ke-4 hingga akhir :", buah)
 ### *Menambahkan Elemen List*
 Soal
 
-![img](screenshot/ss6.Png)
+![img](screenshot/ss6.png)
 Saya Mengerjakan Dengan *Syntax* Dibawah Ini 
 ```sh
 # Tambah element list
@@ -156,7 +157,7 @@ print(a + b)
 
 ## **Tugas Praktikum**
 Soal
-![img](screenshot/ss8.Png)
+![img](screenshot/ss8.png)
 Saya Mengerjakan Dengan *Syntax* Dibawah Ini 
 ```sh
 # List
